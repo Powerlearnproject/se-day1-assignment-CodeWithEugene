@@ -34,9 +34,9 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 - **VCS**: Track changes to code and facilitate collaboration (e.g., Git, Subversion).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-- 1. **Challenge**: Managing changing requirements.
+- **Challenge**: Managing changing requirements.
        **Strategy**: Use Agile methodologies to accommodate changes.
-- 2. **Challenge**: Ensuring code quality.
+- **Challenge**: Ensuring code quality.
        **Strategy**: Implement code reviews and automated testing.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
