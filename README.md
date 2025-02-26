@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is the systematic application of engineering approaches to the development of software. It involves the use of principles from computer science and mathematics to design, develop, test, and maintain software systems. Its importance lies in its ability to produce reliable and efficient software that meets user requirements and can be maintained and scaled over time.
+- Software engineering is the systematic application of engineering approaches to the development of software. It involves the use of principles from computer science and mathematics to design, develop, test, and maintain software systems. Its importance lies in its ability to produce reliable and efficient software that meets user requirements and can be maintained and scaled over time.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. **The Birth of Software Engineering (1968)**: The term "software engineering" was first introduced at the NATO Software Engineering Conference, marking the beginning of the discipline.
@@ -46,7 +46,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 - **System Testing**: Tests the complete system.
 - **Acceptance Testing**: Validates the system against user requirements.
 
-#Part 2: Introduction to AI and Prompt Engineering
+Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
